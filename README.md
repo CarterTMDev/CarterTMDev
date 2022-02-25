@@ -1,5 +1,5 @@
 ### About me
-Hey! I'm game developer, programmer, and the founder of [Sonamu Games](https://sonamugames.com/). I do web dev and other programming stuff, too. I'm mostly self-taught.
+Hey! I'm a game developer, programmer, and the founder of [Sonamu Games](https://sonamugames.com/). I do web dev and other programming stuff, too. I'm mostly self-taught.
 
 ---
 
